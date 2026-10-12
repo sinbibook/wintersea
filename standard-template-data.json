@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-28T00:33:28.259455113Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-12T03:31:17.194454253Z",
     "templateType": "trip_f",
     "propertyId": "85a93cbb-6336-4552-86e1-795feb5a97ac",
     "homepageId": "b8968886-9165-4a24-8f42-750ada9ec909"
@@ -2293,8 +2293,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "4b907072-dd98-4fee-9dc0-4868cd2fbe5b",
-                    "url": "https://wintersea.kr/assets/images/room/layout.webp",
+                    "id": "01a12e2a-1dbb-7087-98ef-fc53ded7104f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/b8968886-9165-4a24-8f42-750ada9ec909/layout_map_about/1791775873847-11p1dxbieg.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -2306,6 +2306,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
