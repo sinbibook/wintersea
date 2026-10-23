@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-10-12T03:32:15.024431736Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-10-23T09:56:49.064985913Z",
     "templateType": "trip_f",
     "propertyId": "85a93cbb-6336-4552-86e1-795feb5a97ac",
     "homepageId": "b8968886-9165-4a24-8f42-750ada9ec909"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "10:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 10시 00분\n- 입실 마감시간: 22시 00분\n※ 당일예약 / 18시 이후 입실 시 사전 연락 부탁드립니다.\n※ 퇴실시간 12시까지 연장 가능(시간 당 10,000원)\n※ 객실 2개만 가능 선착순\n※ 레이트 체크아웃 시 전날 8시까지 말씀해주세요.\n※ 숙소로 문의 후 예약및 입실해주세요",
-    "usageGuide": "[공지사항]\n- 예약 인원 및 특이사항은 반드시 확인.  \n- 객실 내 게홍어 취식 금지(청소비추가요금 발생).  \n- 쓰레기 분리수거 후 공용 주방으로 배출.  \n- 밤 10시 이후 소음 자제, 테라스 난간 기대기 금지.  \n- 바닷가 이용 후 모래 제거 필수.  \n- 기물 파손, 과도한 오일 사용 시 비용 청구 가능.  \n- 아이 단독 놀이 주의, 드라이기 화상 주의.\n- 뼈껍데기류는 일반 쓰레기.  \n- 304호는 낮은 테이블 구성.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 10시 00분\n- 입실 마감시간: 22시 00분\n※ 당일예약 / 18시 이후 입실 시 사전 연락 부탁드립니다.\n※ 퇴실시간 12시까지 연장 가능(시간 당 10,000원)\n※ 객실 2개만 가능 선착순\n※ 레이트 체크아웃 시 전날 8시까지 말씀해주세요.\n※ 숙소로 문의 후 예약및 입실해주세요\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 인원 추가시 1인토퍼 및 침구 세트 지급\n※ 영유아(24개월 미만)의 경우 인원 추가비용은 발생하지 않으나 인원에는 포함 (토퍼 및 침구 세트 미지급)\n\n[부대시설]\n[1층 카페]\n- 운영 시간: 주말만 운영\n※ 이용 요금: 숙박객 할인 20% 가능\n[공용주방]\n- 이용 객실: 301호, 302호, 303호, 304호, 305호\n- 이용 시간: ~22:00\n- 구비 시설: 조리 용기, 그릇, 수저, 젓가락, 컵, 전자레인지, 토스트기, 인덕션\n※ 301호, 302호, 303호, 304호, 305호는 객실 내 주방이 없으므로 공용주방을 이용해주세요.\n※ 공용주방은 다같이 쓰는 공간이니만큼 청결하게 사용해주세요.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n- OTT 이용 가능\n※ 넷플릭스, 유튜브 이용 가능\n※ OTT 개인계정 불필요\n- 어메니티 제공: 유료 (10,000원)\n※ 친환경 비누로 만든 샴푸, 린스, 클렌징, 비누\n※ 어메니티 구매나 문의는 21시 전에 연락 부탁드립니다.\n- 요청 시 캠핑 의자 및 테이블 제공 (301호~305호 테라스)\n\n- 봉포 해수욕장 도보 약 8분\n- 청간정 차량 약 3분\n- 설악 케이블 카 차량 약 25분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 전기차 충전기 이용 가능\n※ 펜션 내 있음, 주차장 1대\n\n[교통편]\n- 속초에서 고성으로 가는 길목 봉포 초입에 위치해있습니다.",
+    "usageGuide": "- 예약 인원 및 특이사항은 반드시 확인.  \n- 객실 내 게홍어 취식 금지(청소비추가요금 발생).  \n- 쓰레기 분리수거 후 공용 주방으로 배출.  \n- 밤 10시 이후 소음 자제, 테라스 난간 기대기 금지.  \n- 바닷가 이용 후 모래 제거 필수.  \n- 기물 파손, 과도한 오일 사용 시 비용 청구 가능.  \n- 아이 단독 놀이 주의, 드라이기 화상 주의.\n- 뼈껍데기류는 일반 쓰레기.  \n- 304호는 낮은 테이블 구성.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 10시 00분\n- 입실 마감시간: 22시 00분\n※ 당일예약 / 18시 이후 입실 시 사전 연락 부탁드립니다.\n※ 퇴실시간 12시까지 연장 가능(시간 당 10,000원)\n※ 객실 2개만 가능 선착순\n※ 레이트 체크아웃 시 전날 8시까지 말씀해주세요.\n※ 숙소로 문의 후 예약및 입실해주세요\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 10,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n※ 인원 추가시 1인토퍼 및 침구 세트 지급\n※ 영유아(24개월 미만)의 경우 인원 추가비용은 발생하지 않으나 인원에는 포함 (토퍼 및 침구 세트 미지급)\n\n[부대시설]\n[1층 카페]\n- 운영 시간: 주말만 운영\n※ 이용 요금: 숙박객 할인 20% 가능\n[공용주방]\n- 이용 객실: 301호, 302호, 303호, 304호, 305호\n- 이용 시간: ~22:00\n- 구비 시설: 조리 용기, 그릇, 수저, 젓가락, 컵, 전자레인지, 토스트기, 인덕션\n※ 301호, 302호, 303호, 304호, 305호는 객실 내 주방이 없으므로 공용주방을 이용해주세요.\n※ 공용주방은 다같이 쓰는 공간이니만큼 청결하게 사용해주세요.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n- OTT 이용 가능\n※ 넷플릭스, 유튜브 이용 가능\n※ OTT 개인계정 불필요\n- 어메니티 제공: 유료 (10,000원)\n※ 친환경 비누로 만든 샴푸, 린스, 클렌징, 비누\n※ 어메니티 구매나 문의는 21시 전에 연락 부탁드립니다.\n- 요청 시 캠핑 의자 및 테이블 제공 (301호~305호 테라스)\n\n- 봉포 해수욕장 도보 약 8분\n- 청간정 차량 약 3분\n- 설악 케이블 카 차량 약 25분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 전기차 충전기 이용 가능\n※ 펜션 내 있음, 주차장 1대\n\n[교통편]\n- 속초에서 고성으로 가는 길목 봉포 초입에 위치해있습니다.",
     "reservationGuide": "- 예약 인원 및 특이사항은 반드시 확인.  \n- 객실 내 게홍어 취식 금지(청소비추가요금 발생).  \n- 쓰레기 분리수거 후 공용 주방으로 배출.  \n- 밤 10시 이후 소음 자제, 테라스 난간 기대기 금지.  \n- 바닷가 이용 후 모래 제거 필수.  \n- 기물 파손, 과도한 오일 사용 시 비용 청구 가능.  \n- 아이 단독 놀이 주의, 드라이기 화상 주의.\n- 뼈껍데기류는 일반 쓰레기.  \n- 304호는 낮은 테이블 구성.",
     "province": "도/시",
     "city": "시/군/구",
@@ -73,6 +73,47 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "01a16830-cd65-78a0-bb19-c96e1e7d39c4",
+        "name": "오션뷰",
+        "description": "전 객실에서 \n아름다운 오션뷰를 감상하실 수 있습니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a16830-e705-7077-9907-0d0ebb35a94c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16830-cd65-78a0-bb19-c96e1e7d39c4/main/1792749396950-vevn9auozb.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16830-e7d5-7c14-8bab-6f6b5ea0378a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16830-cd65-78a0-bb19-c96e1e7d39c4/main/1792749397061-7p4v3xfx61.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16830-e7c7-7435-bf0f-05c672834e53",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16830-cd65-78a0-bb19-c96e1e7d39c4/main/1792749396950-de8as68orm.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16830-e765-7f46-bec3-c75edc87b488",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16830-cd65-78a0-bb19-c96e1e7d39c4/main/1792749397062-y6bybzl3aq.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
       {
         "id": "691e16fa-20c6-42df-b6e4-48064447a755",
         "name": "부대시설",
@@ -319,7 +360,7 @@
           {
             "id": "31446564-3f85-4b55-81ad-858375cbe154",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/0B6X3jzTtbfv.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -329,7 +370,7 @@
           {
             "id": "315ef7c5-71ef-40ac-90d8-87f7bb8ca48d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/TmtC0NX34fky.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -337,7 +378,7 @@
           {
             "id": "ff26924b-e740-4b54-89d5-ab55afe1e607",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/kO3AxMtLXiBT.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -345,7 +386,7 @@
           {
             "id": "94ac9a5c-9e19-47e6-a196-87b502245705",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/8OmKEbgB23xu.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -353,7 +394,7 @@
           {
             "id": "673504c1-4635-411e-94cc-6c079b0928bb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/tJgcBVe1ZOk7.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -361,7 +402,7 @@
           {
             "id": "fb83c23d-2e65-4a6d-a56f-24e12af1f466",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/WpaNTZ1eEAf3.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -369,7 +410,7 @@
           {
             "id": "897d81bb-d332-403d-a92a-fc66eff1f6b9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/uqnRPEGkJ7xe.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -377,7 +418,7 @@
           {
             "id": "93cf2b07-ab13-4f36-8078-2a84c0a8683a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/QqegOtfE60vc.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -385,7 +426,7 @@
           {
             "id": "bd3866ae-a526-416f-bf34-33bb8f978133",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/MpJNjGvAoRs4.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -393,7 +434,7 @@
           {
             "id": "aed59de3-4c3d-41a1-9a66-e68f82363edb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/lU2mCvF9fPp8.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3503,7 +3544,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
